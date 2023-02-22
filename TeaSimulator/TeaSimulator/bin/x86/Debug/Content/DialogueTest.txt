@@ -1,0 +1,5 @@
+"Hello! This is test Dialogue! (press button to continue)"
+"Our game is all about making tea."
+"You will combine herbs together in order to make different flavors."
+"Hopefully it wil be fun."
+"Goodbye! :)"

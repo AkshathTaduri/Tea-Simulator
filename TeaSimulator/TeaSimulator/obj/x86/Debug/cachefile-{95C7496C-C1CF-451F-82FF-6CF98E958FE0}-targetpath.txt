@@ -1,0 +1,10 @@
+Content\SpriteFont1.xnb
+Content\blank.xnb
+Content\grass.xnb
+Content\rock.xnb
+Content\NPCFiller.xnb
+Content\DialogueTest.txt
+Content\overworld.txt
+Content\Adam.txt
+Content\John.txt
+Content\Quincy.txt

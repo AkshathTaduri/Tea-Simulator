@@ -1,0 +1,294 @@
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\leaf.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kitchen.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kettle.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\wood.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.exe
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.pdb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.csprojResolveAssemblyReference.cache
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.exe
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.pdb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\phasor.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Teacup.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\spice.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\berry.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\root.xnb
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\cream.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\leaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kitchen.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\wood.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\phasor.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Teacup.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\spice.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\berry.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\root.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\cream.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.pdb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.csprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.pdb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\blank.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\grass.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\NPCFiller.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notleaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\rock.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notkettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Adam.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\DialogueTest.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\John.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Quincy.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\overworld.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\leaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kitchen.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\wood.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\phasor.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Teacup.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\spice.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\berry.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\root.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\cream.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\blank.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\grass.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\NPCFiller.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notleaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\rock.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notkettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Adam.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\DialogueTest.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\John.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Quincy.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\overworld.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.pdb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.csprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.pdb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Leaftile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Berrytile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Creamtile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Spicetile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Roottile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\leaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kitchen.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\wood.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\phasor.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Teacup.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\spice.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\berry.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\root.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\cream.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\blank.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\grass.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\NPCFiller.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notleaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\rock.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notkettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Leaftile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Berrytile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Creamtile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Spicetile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Roottile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Adam.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\DialogueTest.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\John.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Quincy.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\overworld.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.pdb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.csprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.pdb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\door.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Brick.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\WoodTile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUp.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDown.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeft.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRight.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\leaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kitchen.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\wood.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\phasor.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Teacup.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\spice.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\berry.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\root.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\cream.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\blank.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\grass.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\NPCFiller.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notleaf.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\rock.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notkettle.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Leaftile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Berrytile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Creamtile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Spicetile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Roottile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\door.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Brick.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\WoodTile.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUp.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDown.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeft.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRight.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove2.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove3.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\SpriteFont1.xnb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Adam.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\DialogueTest.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\John.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Quincy.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\overworld.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.pdb
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.csprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.exe
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.pdb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\leaf.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kitchen.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\kettle.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\wood.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\phasor.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Teacup.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\spice.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\berry.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\root.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\cream.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\blank.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\grass.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\NPCFiller.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notleaf.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\rock.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\notkettle.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Leaftile.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Berrytile.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Creamtile.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Spicetile.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Roottile.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\door.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Brick.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\WoodTile.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUp.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove1.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove2.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerUpMove3.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDown.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove1.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove2.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerDownMove3.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeft.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove1.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove2.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerLeftMove3.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRight.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove1.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove2.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\PlayerRightMove3.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\SpriteFont1.xnb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Adam.txt
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\DialogueTest.txt
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\John.txt
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\Quincy.txt
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Content\overworld.txt
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.exe
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\TeaSimulator.pdb
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.dll
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.dll
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.dll
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.dll
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.dll
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.xml
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Game.xml
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Graphics.xml
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.GamerServices.xml
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\bin\x86\Debug\Microsoft.Xna.Framework.Input.Touch.xml
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.csprojResolveAssemblyReference.cache
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.exe
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulator\obj\x86\Debug\TeaSimulator.pdb

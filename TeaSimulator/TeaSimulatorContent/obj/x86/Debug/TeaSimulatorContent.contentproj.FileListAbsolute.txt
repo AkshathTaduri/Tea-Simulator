@@ -1,0 +1,6 @@
+C:\Users\217590\Desktop\SprintSeven\TeaSimulator\TeaSimulator\TeaSimulatorContent\obj\x86\Debug\TeaSimulatorContent.contentprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-AkshathT-patch-1\TeaSimulator\TeaSimulator\TeaSimulatorContent\obj\x86\Debug\TeaSimulatorContent.contentprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-2\TeaSimulator\TeaSimulator\TeaSimulatorContent\obj\x86\Debug\TeaSimulatorContent.contentprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator\TeaSimulatorContent\obj\x86\Debug\TeaSimulatorContent.contentprojResolveAssemblyReference.cache
+C:\Users\171901\Desktop\VGP Assignments\TeaSimulator\TeaSimulator2-3\TeaSimulator\TeaSimulator-GabrielPatch\TeaSimulator\TeaSimulatorContent\obj\x86\Debug\TeaSimulatorContent.contentprojResolveAssemblyReference.cache
+\\Fisd-student1\hs\hhs\171901\Documents\GitHub\TeaSimulator2\TeaSimulator\TeaSimulator\TeaSimulatorContent\obj\x86\Debug\TeaSimulatorContent.contentprojResolveAssemblyReference.cache
